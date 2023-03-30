@@ -1,0 +1,45 @@
+.div{
+    width: 600px;
+    margin: auto;
+    background-color: white;
+}
+body{
+    background-image: url(https://akket.com/wp-content/uploads/2020/12/Steam-Igry-Videoigry-Luchshie-Valve-2020-1.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    color: rgb(177, 209, 19);
+    margin-left: 10px;
+}
+p{
+    color: rgb(19, 8, 39);
+   padding: 20px;
+    text-align: justify;
+}
+.link{
+    text-align: right;
+
+}
+.menu{
+    background-color: darkkhaki;
+    text-align: right;
+}
+.menu a{
+    color: rgb(20, 124, 181);
+    text-decoration: none;
+    line-height: 30px;
+    padding: 0 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.menu a:hover{
+    text-decoration: underline;
+}
+.link a{
+    color: rgb(185, 45, 45);
+    text-decoration: none;
+} 
+.link a:hover{
+    text-decoration:underline ;
+}
